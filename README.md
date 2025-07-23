@@ -1,1 +1,1 @@
-# ML interatomic potentials trained with DeepMD
+# ML interatomic potentials and dataset
